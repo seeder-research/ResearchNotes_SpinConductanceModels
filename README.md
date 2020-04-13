@@ -1,0 +1,1 @@
+# ResearchNotes_SpinConductanceModels
